@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "uuid": "946307b4-8db9-37cc-8d71-352d68c2b766",
+    "name": "Sanuc_Mainuc336",
+    "created": "2021-02-24 14:10:39 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "40416333-0c95-3d1a-9148-34552a7b92eb",
+    "name": "946307b4-8db9-37cc-8d71-352d68c2b766",
+    "created": "2021-02-24 14:11:39 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

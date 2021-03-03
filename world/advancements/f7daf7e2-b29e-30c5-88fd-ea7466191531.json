@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2021-02-24 20:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-12-08 21:13:32 +0000"
@@ -218,6 +224,12 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-12-09 12:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-02-23 22:44:38 +0000"
     },
     "done": true
   },
@@ -616,13 +628,21 @@
       "minecraft:piglin_brute": "2020-12-09 20:37:45 +0000",
       "minecraft:creeper": "2020-12-08 23:30:35 +0000",
       "minecraft:phantom": "2020-12-09 00:12:45 +0000",
+      "minecraft:witch": "2021-02-17 14:34:08 +0000",
       "minecraft:wither_skeleton": "2020-12-09 20:41:05 +0000",
       "minecraft:piglin": "2020-12-09 20:10:14 +0000",
       "minecraft:silverfish": "2020-12-10 21:05:19 +0000",
       "minecraft:enderman": "2020-12-11 19:07:01 +0000",
-      "minecraft:zombie": "2020-12-08 21:53:59 +0000"
+      "minecraft:zombie": "2020-12-08 21:53:59 +0000",
+      "minecraft:zombie_villager": "2021-02-24 12:54:31 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2021-02-17 15:07:15 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -732,6 +752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2021-02-24 20:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2020-12-09 15:13:03 +0000"
@@ -789,6 +815,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-12-11 19:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-02-24 20:08:15 +0000"
     },
     "done": true
   },
@@ -963,6 +995,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-08 23:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-02-24 20:08:15 +0000"
     },
     "done": true
   },
@@ -1248,6 +1286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2021-02-24 20:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-08 23:34:45 +0000"
@@ -1257,6 +1301,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-09 00:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-02-24 20:08:15 +0000"
     },
     "done": true
   },
@@ -1506,6 +1556,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-12-11 19:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2021-02-24 12:34:08 +0000"
     },
     "done": true
   },
@@ -1787,6 +1843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2021-02-24 20:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-09 00:50:36 +0000"
@@ -1937,10 +1999,12 @@
       "cooked_mutton": "2020-12-09 00:36:40 +0000",
       "sweet_berries": "2020-12-09 17:36:55 +0000",
       "cooked_beef": "2020-12-08 20:44:45 +0000",
+      "chorus_fruit": "2021-02-23 22:44:47 +0000",
       "baked_potato": "2020-12-11 18:15:34 +0000",
       "apple": "2020-12-08 23:57:07 +0000",
       "bread": "2020-12-09 11:28:18 +0000",
       "golden_apple": "2020-12-12 19:05:37 +0000",
+      "rotten_flesh": "2021-02-24 21:54:20 +0000",
       "melon_slice": "2020-12-09 11:17:07 +0000",
       "cooked_chicken": "2020-12-08 22:12:40 +0000",
       "cooked_salmon": "2020-12-08 23:48:47 +0000",
@@ -2580,6 +2644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-02-24 20:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-12-08 21:13:26 +0000"
@@ -2856,6 +2926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2021-02-22 11:04:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-12-09 11:47:02 +0000"
@@ -2943,6 +3019,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-12-08 21:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2021-02-24 20:08:15 +0000"
     },
     "done": true
   },
@@ -3051,6 +3133,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-12-08 23:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2021-02-24 20:08:15 +0000"
     },
     "done": true
   },
